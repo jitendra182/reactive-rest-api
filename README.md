@@ -23,3 +23,10 @@ mvn spring-boot:run
 ## Copyright
 
 Released under the Apache License 2.0
+
+## API Documentation Details
+Open Api Josn documentation URL:
+http://localhost:9999/api-docs  
+
+Swagger UI documentation URL:
+http://localhost:9999/swagger-ui.html
